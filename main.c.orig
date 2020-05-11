@@ -5,10 +5,11 @@ Initial Function()
   //Sample Code
 }
 
+<<<<<<< HEAD
 Featuree1()
-
+=======
 Security Patch()
-
+>>>>>>> master
 {
  //Sample Code
 }
